@@ -18,7 +18,7 @@
   ---
 
 About Me: </br>
-  I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+  I am a Frontend developer transiting into blockchain development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
   
   <div>
 
@@ -36,7 +36,7 @@ About Me: </br>
   
   ---
   
-  - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+  - :telescope: Working as a Software Engineer and contributing to frontend and blockchain open source.
 
 - :zap: In my free time, I solve problems and read tech articles.
 
