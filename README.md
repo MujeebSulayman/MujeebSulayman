@@ -15,7 +15,7 @@
 
 ---
 
-### `> whoami`
+### `> Stack`
 
 ```typescript
 const developer = {
@@ -26,9 +26,10 @@ const developer = {
     },
     focus: ["Smart Contracts", "DeFi", "NFTs", "Cross-chain Solutions"],
     currentStack: {
-        blockchain: ["Solidity", "ethers.js", "Web3.js"],
-        frontend: ["React", "Next.js", "TypeScript"],
-        tools: ["Hardhat", "Foundry", "Git"]
+        blockchain: ["Solidity", "Ethers.js", "Web3.js", "WalletConnect", "IPFS"],
+        smart contract: ["ERC20 / ERC721 / ERC1155", "Diamond Standard (EIP-2535)", "OpenZeppelin Contracts"],
+        frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Redux", "Context API", "TailwindCSS", "SCSS"],
+        tools: ["Hardhat", "Mocha / Chai", "Git", "VS Code / Remix IDE"]
     }
 };
 ```
@@ -39,9 +40,9 @@ const developer = {
 
 | Domain | Technologies & Expertise |
 |--------|------------------------|
-| 🔗 **Blockchain** | `Solidity` `Smart Contracts` `Ethereum` `RSK` `Across Protocol` |
-| 🎨 **Frontend** | `React` `Next.js` `TypeScript` `Responsive Design` |
-| 🛠️ **Development** | `Hardhat` `Foundry` `Git` `VS Code` |
+| 🔗 **Blockchain** | `Solidity` `Smart Contracts` `Ethereum` `Warmhole` `Across Protocol` |
+| 🎨 **Frontend** | `React` `Next.js` `TypeScript` `JavaScript` `Responsive Design` |
+| 🛠️ **Development** | `Hardhat` `Ethers.js` `Git` `VS Code` |
 | 💼 **Specialties** | `DeFi Protocols` `NFT Solutions` `Cross-chain Integration` |
 
 ---
