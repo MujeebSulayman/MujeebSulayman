@@ -82,9 +82,9 @@ const developer = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thehemjay&theme=tokyonight)][(https://github.com/thehemjay](https://github.com/MujeebSulayman))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thehemjay&theme=tokyonight)](https://github.com/mujeebsulayman)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thehemjay&show_icons=true&theme=tokyonight)]([https://github.com/thehemjay](https://github.com/MujeebSulayman))
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thehemjay&show_icons=true&theme=tokyonight)](https://github.com/mujeebsulayman)
 
 </div>
 
