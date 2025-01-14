@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![Blockchain Developer Banner](https://img.shields.io/badge/Blockchain%20Developer-Ethereum%20Specialist-blue?style=for-the-badge)
@@ -83,7 +82,9 @@ const developer = {
 
 <div align="center">
 
-![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=thehemjay&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thehemjay&theme=tokyonight)](https://github.com/thehemjay)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thehemjay&show_icons=true&theme=tokyonight)](https://github.com/thehemjay)
 
 </div>
 
