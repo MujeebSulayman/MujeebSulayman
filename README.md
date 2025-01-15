@@ -7,7 +7,7 @@
 > *Building the future of Web3, one smart contract at a time*
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://thehemjay.vercel.app/)
-[![Twitter Badge](https://img.shields.io/badge/-@TheHemjay-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.x.com/thehemjay)
+[![Twitter Badge](https://img.shields.io/badge/-X/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.x.com/thehemjay)
 [![Gmail Badge](https://img.shields.io/badge/-SulaymanMujeeb6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:SulaymanMujeeb6@gmail.com)
 [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat-square&logo=adobe)](https://drive.google.com/file/d/1IQnqS4CFpgQjC3n3UYE5VryokHyUDz9K/view?usp=drive_link)
 
@@ -42,7 +42,7 @@ const developer = {
 |--------|------------------------|
 | 🔗 **Blockchain** | `Solidity` `Smart Contracts` `Ethereum` `Warmhole` `Across Protocol` |
 | 🎨 **Frontend** | `React` `Next.js` `TypeScript` `JavaScript` `Responsive Design` |
-| 🛠️ **Development** | `Hardhat` `Ethers.js` `Git` `VS Code` |
+| 🛠️ **Development** | `Hardhat` `Ethers.js` `WalletConnect` `Git` `Mocha` `Chai` |
 | 💼 **Specialties** | `DeFi Protocols` `NFT Solutions` `Cross-chain Integration` |
 
 ---
