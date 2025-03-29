@@ -43,7 +43,7 @@ const developer = {
 ### `> skills.view()`
 
 | Domain | Technologies & Expertise |
-|--------|------------------------|
+|----------|------------------------|
 | 🔗 **Blockchain** | `Solidity` `Smart Contracts` `Ethereum` `Wormhole` `Across Protocol` |
 | 🤖 **AI Agents** | `LangChain Agents` `AutoGPT` `CrewAI` `Eliza OS` `GPT-4 API` `Vector Databases` |
 | 🎨 **Frontend** | `React` `Next.js` `TypeScript` `JavaScript` `Responsive Design` |
