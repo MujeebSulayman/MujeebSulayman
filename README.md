@@ -44,11 +44,11 @@ const developer = {
 
 | Domain | Technologies & Expertise |
 |----------|------------------------|
-| 🔗 **Blockchain** | `Solidity` `Smart Contracts` `Ethereum` `Wormhole` `Across Protocol` |
-| 🤖 **AI Agents** | `LangChain Agents` `AutoGPT` `CrewAI` `Eliza OS` `GPT-4 API` `Vector Databases` |
-| 🎨 **Frontend** | `React` `Next.js` `TypeScript` `JavaScript` `Responsive Design` |
-| 🛠️ **Development** | `Hardhat` `Ethers.js` `WalletConnect` `Git` `Mocha` `Chai` |
-| 💼 **Specialties** | `DeFi Protocols` `On-Chain AI Agents` `Off-Chain AI Agents` `NFT Solutions` `Cross-chain Integration` |
+| 🔗 **Blockchain**  | `Solidity` `Smart Contracts` `Ethereum` `Wormhole` `Across Protocol` |
+| 🤖 **AI Agents**  | `LangChain Agents` `AutoGPT` `CrewAI` `Eliza OS` `GPT-4 API` `Vector Databases` |
+| 🎨 **Frontend**  | `React` `Next.js` `TypeScript` `JavaScript` `Responsive Design` |
+| 🛠️ **Development**  | `Hardhat` `Ethers.js` `WalletConnect` `Git` `Mocha` `Chai` |
+| 💼 **Specialties**  | `DeFi Protocols` `On-Chain AI Agents` `Off-Chain AI Agents` `NFT Solutions` `Cross-chain Integration` |
 
 ---
 
