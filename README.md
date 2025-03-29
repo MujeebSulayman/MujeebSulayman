@@ -1,10 +1,10 @@
 <div align="center">
 
-![Blockchain Developer Banner](https://img.shields.io/badge/Blockchain%20Developer-Ethereum%20Specialist-blue?style=for-the-badge)
+![Blockchain & AI Developer Banner](https://img.shields.io/badge/Blockchain%20%26%20AI%20Developer-Ethereum%20%26%20AI%20Agent%20Specialist-blue?style=for-the-badge)
 
 # Sulayman Mujeeb
 
-> *Building the future of Web3, one smart contract at a time*
+> *Building the future of Web3, one Smart Contract, one AI Agent at a time*
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://thehemjay.vercel.app/)
 [![Twitter Badge](https://img.shields.io/badge/-X/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.x.com/thehemjay)
@@ -19,17 +19,21 @@
 
 ```typescript
 const developer = {
-    role: "Fullstack Blockchain Developer",
+    role: ["Fullstack Blockchain Developer", "AI Agent Developer"],
     experience: {
         blockchain: "2+ years",
-        software: "4+ years"
+        software: "4+ years",
+        AI: "1+ year",
+        AI_Agents: "1+ year"
     },
-    focus: ["Smart Contracts", "DeFi", "NFTs", "Cross-chain Solutions"],
+    focus: ["Smart Contracts", "DeFi", "NFTs", "Cross-chain Solutions", "On-chain AI Agents", "Off-chain AI Agents"],
     currentStack: {
-        blockchain: ["Solidity", "Ethers.js", "Web3.js", "WalletConnect", "IPFS"],
-        smart contract: ["ERC20 / ERC721 / ERC1155", "Diamond Standard (EIP-2535)", "OpenZeppelin Contracts"],
+        blockchain: ["Solidity", "Ethers.js", "WalletConnect", "IPFS"],
+        AI: ["Node.js", "LangChain", "OpenAI API", "Vector Databases"],
+        smart Contract: ["ERC20 / ERC721 / ERC1155", "Diamond Standard (EIP-2535)", "OpenZeppelin Contracts"],
+        AI Agents: ["LangChain Agents", "AutoGPT", "CrewAI", "Eliza OS", "GPT-4 API"],
         frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Redux", "Context API", "TailwindCSS", "SCSS"],
-        tools: ["Hardhat", "Mocha / Chai", "Git", "VS Code / Remix IDE"]
+        tools: ["Hardhat", "Mocha / Chai", "Git", "VS Code / Remix IDE", Eliza OS]
     }
 };
 ```
@@ -40,10 +44,11 @@ const developer = {
 
 | Domain | Technologies & Expertise |
 |--------|------------------------|
-| 🔗 **Blockchain** | `Solidity` `Smart Contracts` `Ethereum` `Warmhole` `Across Protocol` |
+| 🔗 **Blockchain** | `Solidity` `Smart Contracts` `Ethereum` `Wormhole` `Across Protocol` |
+| 🤖 **AI Agents** | `LangChain Agents` `AutoGPT` `CrewAI` `Eliza OS` `GPT-4 API` `Vector Databases` |
 | 🎨 **Frontend** | `React` `Next.js` `TypeScript` `JavaScript` `Responsive Design` |
 | 🛠️ **Development** | `Hardhat` `Ethers.js` `WalletConnect` `Git` `Mocha` `Chai` |
-| 💼 **Specialties** | `DeFi Protocols` `NFT Solutions` `Cross-chain Integration` |
+| 💼 **Specialties** | `DeFi Protocols` `On-Chain AI Agents` `Off-Chain AI Agents` `NFT Solutions` `Cross-chain Integration` |
 
 ---
 
@@ -52,7 +57,7 @@ const developer = {
 <details>
 <summary><b>🚀 Featured Projects (Click to expand)</b></summary>
 
-*Coming soon - Watch this space for innovative blockchain solutions!*
+*Coming soon - Watch this space for innovative blockchain & AI agent solutions!*
 
 </details>
 
@@ -64,7 +69,15 @@ const developer = {
 ├── Blockchain Development
 │   ├── Smart Contract Architecture
 │   ├── DeFi Protocol Implementation
-│   └── Cross-chain Solutions
+│   ├── Cross-chain Solutions
+│   └── NFT Development
+│
+├── AI Agent Development
+│   ├── On-Chain AI Agents
+│   ├── Off-Chain AI Agents
+│   ├── LangChain & CrewAI
+│   ├── AutoGPT & Eliza OS
+│   └── AI-Powered Web3 Automation
 │
 ├── Frontend Development
 │   ├── Web3 Integration
@@ -74,6 +87,8 @@ const developer = {
 └── Technical Expertise
     ├── Security Best Practices
     ├── Gas Optimization
+    ├── AI & Blockchain Interoperability
+    ├── Decentralized AI Applications
     └── Protocol Design
 ```
 
@@ -99,12 +114,13 @@ const developer = {
 [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)](#)
+[![AI Agents](https://img.shields.io/badge/AI%20Agents-%23115.svg?style=for-the-badge&logo=openai&logoColor=white)](#)
 
-**💼 Open for Collaboration on Blockchain Projects**
+**💼 Open for Collaboration on Blockchain & AI Agent Projects**
 
-[Portfolio](https://thehemjay.vercel.app/) • 
-[Email](mailto:SulaymanMujeeb6@gmail.com) • 
-[Twitter](https://www.x.com/thehemjay) • 
+[Portfolio](https://thehemjay.vercel.app/) •
+[Email](mailto:SulaymanMujeeb6@gmail.com) •
+[Twitter](https://www.x.com/thehemjay) •
 [Resume](https://drive.google.com/file/d/1IQnqS4CFpgQjC3n3UYE5VryokHyUDz9K/view?usp=drive_link)
 
 </div>
@@ -113,6 +129,7 @@ const developer = {
 
 <div align="center">
 
-*"Smart contracts, smarter solutions"*
+*"Smart contracts, smarter AI solutions"*
 
 </div>
+
