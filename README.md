@@ -94,18 +94,6 @@ const developer = {
 
 ---
 
-### `> github.stats()`
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thehemjay&theme=tokyonight)](https://github.com/mujeebsulayman)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thehemjay&show_icons=true&theme=tokyonight)](https://github.com/mujeebsulayman)
-
-</div>
-
----
-
 ### `> contact.methods()`
 
 <div align="center">
