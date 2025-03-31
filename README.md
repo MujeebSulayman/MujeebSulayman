@@ -24,7 +24,7 @@ const developer = {
         blockchain: "2+ years",
         software: "4+ years",
         AI: "1+ year",
-        AI_Agents: "1+ year"
+        AI Agents: "1+ year"
     },
     focus: ["Smart Contracts", "DeFi", "NFTs", "Cross-chain Solutions", "On-chain AI Agents", "Off-chain AI Agents"],
     currentStack: {
@@ -33,7 +33,7 @@ const developer = {
         smart Contract: ["ERC20 / ERC721 / ERC1155", "Diamond Standard (EIP-2535)", "OpenZeppelin Contracts"],
         AI Agents: ["LangChain Agents", "AutoGPT", "CrewAI", "Eliza OS", "GPT-4 API"],
         frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Redux", "Context API", "TailwindCSS", "SCSS"],
-        tools: ["Hardhat", "Mocha / Chai", "Git", "VS Code / Remix IDE", Eliza OS]
+        tools: ["Hardhat", "Mocha / Chai", "Git", "VS Code / Remix IDE", "Eliza OS"]
     }
 };
 ```
